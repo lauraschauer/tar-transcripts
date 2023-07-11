@@ -1,0 +1,67 @@
+Transcribed by: Aron
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=2A3PtPnc7-4
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: where are you most likely to pay a service charge? [question]
+S: in a church on a tennis court at a petrol station in a restaurant [options]
+U2: I think I know this one [offer-to-answer]
+U1: I think I know too what would you say? [check-answer]
+U2: would say in a restaurant I would hope [offer-answer (restaurant)]
+U1: I would go along with that [agreement]
+S: you've got 500 pounds [accept-answer]
+
+S: which sport is most associated with Catterick Linfield park and Ripon? [question]
+S: cricket football greyhound racing horse racing [options]
+U1: horse racing [offer-answer (horse racing)]
+U2: that's the first thing that popped into my head [agreement]
+U2: and the second thing that popped into my head was I really hope that Hillary knows this [chit-chat]
+U2: so yes I would say horse racing [agreement]
+U1: we're pretty confident about horse racing [final-answer (horse racing)]
+S: it's the right answer you have 1,000 pounds [accept-answer]
+
+S: which former Blue Peter presenter is the mother of a famous daughter called Sophie [question]
+U1: Valerie singleton Tina Heath Janet Ellis Lesley Judd [options]
+U2: I know that one [offer-to-answer]
+U1: thank goodness for that [chit-chat]
+U2: well see  when you say that then I panic and think well maybe I don't [chit-chat]
+U1: confidence [chit-chat]
+U2: okay well she's Sophie is now known as Sophie ellis-bextor so I'm assuming that it's Janet Ellis [offer-answer (janet ellis)]
+U1: good thinking I like that [chit-chat]
+U2: would you agree? [ask-agreement]
+U1: totally [agreement]
+S: final answer [confirm-agreement]
+U1: final answer [confirm-final-answer (janet ellis)]
+S: you've got 2000 pounds [accept-answer]
+
+S: which of these words refers to someone who cultivates grapes for wine making [question]
+S: horticulturist Vinnieculturist aquaculturist apiculturist [options]
+U1: you know this you drink a lot of wine [chit-chat]
+U2: Well I know which one jumps out but I don't know if that's a trick answer [chit-chat]
+U1: it's got to be viniculturist [offer-answer (viniculturist)]
+S: final answer [ask-agreement]
+U1: viniculturist [confirm-final-answer (viniculturist)]
+S: you've got 5000 pounds [accept-answer]
+
+S: which type of water bird shares its name with a shade of blue? [question]
+S: coot grebe mallard teal [options]
+U1: I don't know this one [chit-chat]
+U2: really, I thought you did [chit-chat]
+U2: well obviuosly a mallard is a duck and it's got lots of bloody colors and mainly green and brown [reject-option (mallard)]
+U2: a coot is black [reject-option (coot)]
+U2: a greeb I'm not sure but I know they have teal blue so [offer-answer (coot)]
+U1: I think you're right [agreement]
+U2: yeah okay all right then [chit-chat]
+S: final answer [ask-agreement]
+U2: final answer [confirm-final-answer (coot)]
+S: you just won 10,000 pounds [accept-answer]

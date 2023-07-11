@@ -1,0 +1,34 @@
+Transcribed by: Katie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=RWlYSD531Dc
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: the national flag of China features five what? [question]
+S: stars, shields, stripes, crescents [options]
+U2: So, what are you saying? [offer-to-answer]
+U1: stars [offer-answer(stars)]
+U2: I don't follow the Chinese although I do like a chicken in black bean sauce [chit-chat]
+S: is it your final answer [confirm-agreement]
+U1: yeah [confirm-final-answer(stars)]
+U1: okay you have 5,000 pounds [accept-answer]
+
+S: In the children's books by dick Bruna what kind of animal is Miffy [question]
+S: Hedgehog badger rabbit otter [options]
+U1: you might read children's books but I don't [chit-chat]
+U2: I don't read dick Bruner's children's books [chit-chat]
+U1: Okay what kind of animal is Miffy [chit-chat]
+U2: miffy, it sound like a rabbit to me [offer-answer(rabbit)]
+U1: I was just gonna say, I don't know what it is, but I'm looking at rabbit [agreement]
+U1: final answer rabbit [final-answer(rabbit)] 
+U2: final answer rabbit [final-answer(rabbit)]
+S: it's the right answer [accept-answer]

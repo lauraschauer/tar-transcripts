@@ -1,0 +1,88 @@
+Transcribed by: Katie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=FJSV0eVR3ZE
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: Before her marriage to Juan Carlos in 1962, Queen Sophia of Spain was a princess of which country? [question]
+S: Denmark, Netherlands, Italy, Greece [options]
+U1: I'd go for Italy [offer-answer(Italy)]
+U1: What about you? [check-answer]
+U2: I think she was Greek [offer-answer(Greece)]
+U2: But I, I honestly don't know [chit-chat]
+U2: Can I say a silly thing? [chit-chat]
+U1: Please [chit-chat]
+U2: She doesn't look Italian [chit-chat]
+U1: She looks Greek? [chit-chat]
+U2: In a weird sort of way [chit-chat]
+U2: I mean I just don't think she looks Italian but I don't know [chit-chat]
+U1: All right then, let's go for Greece [offer-answer(Greece)]
+U2: Sophia doesn't sound Dutch, does it? [reject-options(Denmark)]
+U1: No, it doesn't [reject-option-agreement(Denmark)]
+U1: So, possibly Greece or possibly Italy [chit-chat]
+U2: Was the Italian thing just you vaguely remember reading something about her or?[chit-chat]
+U1: Yea but it's, it's vague so I wouldn't want to I wouldn't want to stake 32,000 pounds on it [chit-chat] 
+U2: I think that they're quite buddy with our royal family and Philip is, of course, Greek. [chit-chat]
+U1: okay let's go Greece, let's go for it [offer-answer(Greece)]
+U1: I think you should go with your hunch [chit-chat]
+U2: Right, and it's purely a hunch [chit-chat]
+U2: Greece [final-answer(Greece)]
+S: Final answer? [confirm-agreement]
+U1: I'm happy with that [confirm-final-answer(Greece)]
+U2: Final answer, yes [confirm-final-answer(Greece)]
+S: It's the right answer [accept-answer]
+
+S: According to tradition, at the Battle of Hastings King Harold was struck in the eye by what?[question]
+U1: An arrow, a pidgeon, a snowball, a custard pie [options]
+U1: An arrow [final answer(arrow)]
+S: An arrow? [confirm-agreement]
+U1: An arrow. [confirm-final-answer(arrow)]
+S: That is the right answer [accept-answer]
+
+S: Someone who is alert and in touch with a situation is said to be ... what? [question]
+S: On the globe, on the ball, on the sphere, on the orb [options]
+U1: well I think it's probably on the ball [offer-answer(on the ball)]
+S: Well, you probably just won 200 pounds [accept-answer]
+
+S: Which of these is designed to hold a hat or helmet in place? [question]
+S: Neckbelt, headtie, chinstrap, cheekcord [options]
+U1: Chinstrap? [offer-answer(chinstrap)
+U2: Yes [agreement]
+U1: Yes [agreement]
+U2: Chinstrap [final-answer(chinstrap)]
+S: Absolutey, 3 hundred pounds [accept-answer]
+
+S: Black and green are the two most popular edible types of which fruit [question]
+S: Olive, coconut, raspberry, apple [options]
+U1: Well, in my fruit basket it would probably be apples [chit-chat]
+U1: Um I think it's olive [offer-answer(olive)] 
+U2: I think it might just be olive, yea [agreement]
+S: You've now got 500 punds [accept-answer]
+
+
+S: what name is given to birds such as avocets and sandpipers? [question]
+S: paddlers, splashers, waders, ploughers [options]
+U1: I would say waders, wouldn't you? [offer-answer(waders)]
+U2: Yea, I would say waders [agreement]
+U1: oh hang on, oh I don't know exactly [chit-chat]
+U1: they've gotta be waders [offer-answer(waders)]
+U2: They must be waders [agreement]
+U1: I've never heard of paddling birds, as in being described as paddlers [chit-chat]
+U2: splashers, ploughers, waders, I mean that is the generic bird term. [chit-chat]
+U1: God, it's amazing how you doubt yourself sitting here I'd be I'd be shouting at the screen at home [chit-chat]
+U2: I mean it's got to be waders [offer-answer(waders)]
+U1: It's, absolutely, it's got to be [agreement]
+U2: Yes, waders [agreement]
+U1: Waders, final answer [final-answer(waders)]
+S: Final answer? [confirm-agreement]
+U2: agreed [confirm-final-answer(waders)]
+S: It's the right answer. [accept-answer]

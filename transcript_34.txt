@@ -1,0 +1,112 @@
+Transcribed by: Cale
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=wGgcQ6fKV1s
+
+Dialogue Annotation Options:
+[question] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: A time very early in the morning is known as the what of dawn [question]
+S: Crack of dawn, splinter of dawn, burst of dawn shatter of dawn [options]
+U2: That'll be the crack of dawn then [final-answer(crack of dawn)]
+U1: Yes yes [agreement]
+S: Thats the right answer you have won 100 pounds [accept-answer]
+
+S: The RRP of an item refers to its recommended what [question]
+S: Right place, retail price, red panda, rubber plant [options]
+U1: Go for it [chit-chat]
+U2: Retail price [final-answer(Retail price)]
+S: That's the right answer now you got 200 pounds [accept-answer]
+
+S: In 2004 a model Jordan announced her engagement to which singer [question]
+S: Simon Lebon, Peter Andre, Rick Astley, Ronan Keating [options]
+U2: You can do this one [chit-chat]
+U1: I'd rather you did this one actually [chit-chat]
+U2: Peter Andre [final-answer(Peter Andre)]
+S: That's the right answer you have 300 pounds [accept-answer]
+
+S: Carol and Marc are the twins of which former Prime Minister [question] 
+S: Jim Callaghan, John Major, Harold Wilson, Margaret Thatcher [options]
+U1: Shall I go for this one [offer-to-answer]
+U2: You do that one [agreement]
+U1: We'll have D Margaret Thatcher [final-answer(Margaret Thatcher)]
+S: That's the right answer Michael [accept-answer]
+
+S: On which continent is the region of Tibet [question] 
+S: North America, Europe, Asia, Africa [options]
+U2: You do that one [chit-chat]
+U1: Well I'll go for Asia please [final-answer(Asia)]
+S: It's the right answer [accept-answer]
+
+S: In which field is Julie Burchill best known [question]
+S: Journalism, fashion design, golf, ballet [options]
+U2: He knows this [chit-chat]
+U1: yes I can go for this without further ado [offer-to-answer]
+U2: OK [agreement]
+U1: So A Journalism is the answer [final-answer(Journalism)]
+S: Final Answer [confirm-agreement]
+U1: Final Answer [confirm-final-answer(Journalism)]
+S: That's the right answer [accept-answer]
+
+S: Complete the title of the 1974 film starring Peter Fonda and Susan George "Dirty Mary, Crazy" [question]
+S: Leonard, Larry, Leroy, Lloyd [options]
+U2: you know this one too [chit-chat]
+U2: You a bit of a Susan George fan [chit-chat]
+U1: Well she's a lovely girl of course yeah [chit-chat]
+U1: It's not one of the the great movies of all time I would say [chit-chat]
+U1: But I do think I can remove three of those which can probably give us an answer [chit-chat]
+S: well it would out of 4 yes [chit-chat]
+U1: I think the answer is Larry [offer-answer(Larry)]
+S: You confident Michael [confirm-agreement]
+U1: I'm not confident but I'm prepared to go for Larry [ask-agreement]
+U2: OK [agreement]
+U1: I think to recommend Larry [chit-chat]
+U1: Put it that way [chit-chat]
+U2: I will accept your recommendation [agreement]
+S: I recommend it to the house [chit-chat]
+U2: I recomment it [chit-chat]
+S: final answer [confirm-agreement]
+U1: yes [confirm-final-answer(Larry)]
+S: it's the right answer [accept-answer]
+
+
+S: The Rachel papers was the first novel by which author [question]
+s: Irving Welsh, Will Self, Julianne Barnes, Martin Amis [options]
+U1: I don't know [chit-chat]
+U2: Great [chit-chat]
+U2: Nor do I [chit-chat]
+U2: It's going well [chit-chat]
+U1: If I were to guess I would save that it's by Will Self but I don't think we can guess [offer-answer(Will Self)]
+U1: We can keep our 16,000 [chit-chat]
+S: You can keep your 16,000 [chit-chat]
+S: If you do play and give me a wrong answer you lose 15 give me the right answer and you double it [chit-chat]
+U2: Quite exciting to take a risk though wouldn't it [chit-chat]
+U1: Yes it would be exciting [chit-chat]
+U2: Would you risk it if it were your own money [chit-chat]
+U1: Yes [chit-chat]
+U1: Yes I would [chit-chat]
+U2: First novel well Irving Welsh first novel im sure is very well known [reject-option(Irving Welsh)]
+U1: It sounds English doesn't it [chit-chat]
+U1: It's an English sounding thing that doesn't help [chit-chat]
+U1: Should we beg forgiveness in advance and and risk it [chit-chat]
+U1: you want to don't you [chit-chat]
+U2: I do I feel it's just like [chit-chat]
+U1: Well what do you feel is there a name that you prefer [chit-chat]
+U2: Will Self looking good to me [offer-answer(Will Self)]
+U1: Yeah [agreement]
+U2: Let's do it [agreement]
+U1: We'll do it you think [chit-chat]
+U1: Right we'll go for it [chit-chat]
+S: Final answer Michael [confirm-agreement]
+U1: Final answer [confirm-final-answer(Will Self)]
+S: Final answer Carol [confirm-agreement]
+U2: Final Answer [confirm-final-answer(Will Self)]
+S: You had 16,000 pounds [chit-chat]
+S: you've just lost 15,000 pounds [reject-option]

@@ -1,0 +1,73 @@
+Transcribed by: Aron
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=HTX-qCXuh1A
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+S:  which of these is a short flexible whip with a loop at the end used in horse riding riding? [question]
+S: riding crop, riding prune, riding snip, riding shear [options]
+U1: riding crop [offer-answer (riding crop)]
+U2: riding crop [offer-answer (riding crop)]
+U1: riding crop [final-answer (riding crop)]
+S: it's the right answer [accept-answer]
+
+S: which of these means and slightly sticky to the touch? [question]
+S: garish, gaudy, tacky, vulgar [options]
+U2: I think it's tacky [offer-answer (tacky)]
+U1: yeah [agreement]
+S: that's the right answer [accept-answer]
+
+S: what type of accommodation is a penthouse? [question]
+S: bungalow houseboat apartment cottage [options]
+U2: apartment [offer-answer (apartment)]
+S: right answer [accept-answer]
+
+S: what name is given to a new performance of an old play? [question]
+S: recovery, revival, Renaissance, renewal [options]
+U2: revival [offer-answer (revival)]
+U1: revival [offer-answer (revival)]
+S: right answer [accept-answer]
+
+S: which of these people is specifically appointed to manage the estate of a company or person declared bankrput? [question]
+S: office receiver returning officer, paymaster general privy councillor [options]
+U1: do you know this one? [check-answer]
+U2: well I think it is official receiver [offer-answer (official receiver)]
+U1: right [chit-chat]
+U2: because returning officer is in an election [reject-option (returning officer)]
+U1: no yeah [reject-option-agreement (returning officer)]
+U2: and a paymaster general is a master general [reject-option (paymaster general)]
+U1: yeah [reject-option-agreement (paymaster general)]
+U2: it must be official receiver [offer-answer (official receiver)]
+U1: you're saying the receiver yes [agreement]
+U2: official receiver [final-answer (official receiver)]
+S: you have 1000 pounds [accept-answer]
+
+S: which of these is a spoken examination? [question]
+S: auditory oral gustatory olfactory [options]
+U2: oral [offer-answer (oral)]
+U1: oral yeah but should we think about oral I mean it is definitely oral [offer-answer (oral)]
+U2: well auditory is hearing [reject-option (auditory)]
+U1: yeah it's hearing [reject-option-agreement (auditory)]
+U2: yes oral french exam is what you've got to do [chit-chat]
+U1: yes yes yes [agreement]
+U1: oral examination [final-answer (oral)]
+S: you've got 2000 pounds [accept-answer]
+
+S: show me the money is a lion from which Tom Cruise film [question]
+S: a few good men Top Gun Days of Thunder Jerry Maguire [options]
+U2: I think it is jerry maguire [offer-answer (jerry maguire)]
+U1: yes show me the money [agreement]
+U2: it is a sports agent, a catch-phrase, show me the money [chit-chat]
+U1: quite bad impression [chit-chat]
+U2: yeah casting directors [chit-chat]
+S: final answer? [confirm-agreement]
+U2: yes [confirm-final-answer (jerry maguire)]
+S: it's the right answer you've got 16000 pounds [accept-answer]

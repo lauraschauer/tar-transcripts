@@ -1,0 +1,85 @@
+Transcribed by: Katie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=5wUtS6MCYoY
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+
+
+S: Which of these is the act or ceremony of crowning a monarch? [question]
+S: Carnation, correlation, coronation, constellation [options]
+U1: well we've had a lovely day [chit-chat]
+U1: Come here with nothing and we're going home with nothing [chit-chat]
+U1: well it's the one I'm gonna get right so [chit-chat]
+U1: I'm gonna go for, you suddenly start to panic and think I'm wrong [chit-chat]
+U1: it's coronation [final-answer(coronation)]
+S: it's the right answer [accept-answer]
+
+S: Which of these words refers to a resistance to infection? [question]
+S: community, immunity, disunity, opportunity [options]
+U2: its immunity [confirm-final-answer(immunity)]
+S: it's the right answer [accept-answer]
+
+S: In sports what name is given to the situation of a team moving to the next round in the absence of an assigned opponent? [question]
+S: Bye, dye, rye, lye [options]
+U2: Do you want to do this one? [offer-to-answer]
+U1: yes, yes [agreement]
+U1: Em, bye [confirm-final-answer(bye)]
+S: It's the right answer [accept-answer]
+
+S: In Shakespeare's play, which part of Yorick's body does Hamlet hold during the "Alas, poor Yorik!" speech? [question]
+S: Rib, tooth, skull, tibia [options]
+U1: yes go ahead [chit-chat]
+U2: Skull [confirm-final-answer(skull)]
+U1: final answer, it's the right answer [accept-answer]
+
+S: Which TV conjurer famously encased himself in ice for nearly three days in 2000? [question]
+S: Paul Daniels, David Copperfield, David Blaine, Ali Bongo [options]
+U2: Do you want to say it or shall I? [offer-to-answer]
+U1: well well yes I I mean I know [chit-chat]
+U2: Don't say Ali Bongo [reject-option(ali bongo)]
+U1: No ([reject-option-agreement(ali bongo)]
+U1: Well, I'll say to you, I'm pretty sure it's David Blaine [offer-answer(david blaine)]
+U2: David Blaine [agreement]
+S: Final answer? [confirm-agreement]
+U1: Yes [confirm-final-answer(david blaine)]
+U2: Yes [confirm-final-answer(david blaine)]
+S: It's the right answer [accept-answer]
+
+S: What was the name for the British rule in India before independence in 1947? [question]
+S: Kaa, Hothi, Raj, Akela [options]
+U2: I'd say it's Raj. [offer-answer(raj)]
+U1: Yea [agreement]
+S: final answer? [confirm-agreement]
+U2: yes [confirm-final-answer(raj)]
+S: that's the right answer [accept-answer]
+
+S: With which type of music is Herbie Hancock most commonly associated? [question]
+S: Jazz, opera, house, rap [options]
+U2: well they missed the fusion off there sir [chit-chat]
+U2: Jazz [final-answer(jazz)]
+S: final answer? [confirm-agreement]
+U1: Yes, definitely [confirm-final-answer(jazz)] 
+S: that's the right answer [accept-answer]
+
+S: a vice rain is the wife of the holder of which title? [question]
+S: vice-chairman, Viceroy, vice president, Vice Admiral [options]
+U1: I immediately thought Viceroy and I'm sure it is but now I think this should be retitled 'who wants to be a self-doubter' [chit-chat]
+U1: Viceroy was the first thing, you know, before any of these came up. I immediately thought Viceroy. [chit-chat]
+U1: It is a viceroy? [offer-answer(viceroy)]
+U2: yea, it must be. [agreement]
+U1: vice chairman, he doesn't have a wife, vice president, well hes got a wife's but that's nothing to do with them [chit-chat]
+U1: So, viceroy. [final-answer(viceroy)]
+S: Is that your final answer [confirm-agreement]
+U1: yeah I think should [confirm-final-answer(viceroy)]
+U2: let's go for it yeah [confirm-final-answer(viceroy)]
+U1: it's the right answer [accept-answer]

@@ -1,0 +1,115 @@
+Transcribed by: Jack Miller
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=z8Ojj0VKkz4
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: what kind of jacket is a traditional part of school uniform? [questions]
+S: blazer, burner, maker, boiler [options]
+U1: blazer? [offer-answer(blazer)]
+U2: i think we're happy with blazer [agreement]
+S: that's good you have 100 pounds no problem whatsoever [accept-answer]
+
+S: according to the saying the proof of the pudding is in the what [question]
+S: mixing, baking, testing, eating [options]
+U1: eating [offer-answer(eating)]
+U2: eating? [offer-answer(eating)]
+S: I didn't even know that 200 pounds it's the right answer [accept-answer]
+
+S: number 3 for 300 [chit-chat]
+S: in which weather conditions is a gritter most likely to be used? [question]
+S: foggy, sunny, icey, windy [options]
+U1: icey? [offer-answer(icey)]
+S: icey oh a bit sunny today better get the grit lorry out [chit-chat]
+S: right answer you got three hundred pounds [accept-answer]
+
+S: the body zone was a feature of which UK tourist attraction? [question]
+S: tower of london, madame tussaud's, millenium dome, eden project [options]
+U1: millenium dome? [offer-answer(millenium dome)]
+U2: millenium dome [offer-answer(millenium dome)]
+U2: did you go? [chit-chat]
+U1: i did yes it was shut [chit-chat]
+S: so you've never got to the body's zone [chit-chat]
+S: it's the right answer you have five hundred pounds [accept-answer]
+
+
+S: whose autobiography is called from rags to richie? [question]
+S: Lionel Richie, Shane Richie, Richie Benaud, Richard Madeley [options]
+U2: Shane? Shane Richie [offer-answer(shane richie)]
+S: that's the right answer you have 1,000 pounds well played [accept-answer]
+
+S: in 2003 who completed 7 marathons in seven days? [question]
+S: Paula Radcliffe, Ian Botham, Ranulph Fiennes, Richard Branson [question]
+U2: i think it's Ranulph Fiennes [offer-answer(ranulph fiennes)]
+U1: yes i would say it was eh definitely Ranulph Fiennes [agreement]
+U2: he was astonishing he did it after his heart attack didn't he [chit-chat]
+U2: so yes Ranulph Fiennes [confirm-final-answer (ranulph fiennes)]
+S: that's the right answer you have two thousand pounds let's play [accept-answer]
+
+S: who sang with Serge Gainsbourg on the 1969 hit je t'aime moi nom plus [question]
+S: Jane Fonda, Jane Seymour, Jane Birkin, Jane Torvill [options]
+U2: okay not Jane Torvill not Jane Seymour [chit-chat]
+U1: definitely not Jane Fonda [chit-chat]
+U2: it has to be Jane Birkin [offer-answer(jane birkin)]
+U1: we'll go with that then [final-answer(jane birkin)]
+S: final answer? [confirm-agreement]
+U2: yes final answer [confirm-final-answer (jane birkin)]
+S: it's the right answer you have four thousand pounds [accept-answer]
+
+S: at which location is Frogmore, where Queen Victoria and Prince Albert are buried? [question]
+S: Balmoral, Sandringham, Isle of Wight, Windsor [options]
+U2: okay I know that its Windsor yes? [offer-answer(windsor)]
+U1: yes [agreement]
+U2: good okay Windsor please [final-answer(windsor)]
+S: you have eight thousand [accept-answer]
+
+S: at which organization was the Swede Dag Hammarskjold secretary-general? [question]
+S: Commonwealth, United Nations, Red Cross, NATO [options]
+U2: i haven't a clue [chit-chat]
+U1: it was the United Nations [offer-answer(united nations)]
+U2: are you sure? [ask-agreement]
+U1: yeah, i'm sure [agreement]
+S: you have 16,000 pounds [accept-answer]
+
+S: which of these films starred Burt Lancaster? [question]
+S: circus of horrors, trapeze, tightrope, sawdust and tinzel [options]
+U2: now my mind says trapeze [offer-answer(trapeze)]
+U2: what does your mind say [chit-chat]
+U1: well we both did the same thing when it came up and trapeze [chit-chat]
+U1: tightropes a bit of a isn't it [chit-chat]
+S: a bit of a what? [chit-chat]
+U1: i think it's a bit [chit-chat]
+U2: of a red herring [chit-chat]
+U1: i don't even have a speak she thinks for me [chit-chat]
+U1: i think you're absolutely right I think [chit-chat]
+U2: was he it was um [chit-chat]
+U1: he had them silly little leather shorts on [chit-chat]
+U2: hmm and a sort of strong man tights [chit-chat]
+U1: yup [chit-chat]
+U2: should we go for it [ask-agreement]
+U1: I think if we do it and get it wrong i'll send them the four thousand pounds [chit-chat]
+U2: that's cool we should go for it then trapeze [final-answer(trapeze)]
+U1: final answer [confirm-final-answer(trapeze)]
+S: you're convinced it wasn't tight rope [chit-chat]
+S: it's the right answer you have four thousand pounds [accept-answer]
+
+S: in 2003 the spacecraft Galileo was deliberately destroyed by crashing it into the atmosphere of which planet? [question]
+S: Jupiter, Mars, Venus, Mercury [options]
+U1: now I'm superstitious [chit-chat]
+U1: I think I know [offer-to-answer]
+U2: yeah? do you want to test it [check-answer]
+U2: absolutely whatever you want to do because I am kind of lost here [chit-chat]
+U1: i think it's Mars [offer-answer(mars)]
+U2: yeah let's do that [agreement]
+S: final answer? [confirm-agreement]
+U1: yeah let's go for Mars [final-answer(mars)]
+S: you have 32,000 pounds and you still have 32000 pounds the answer is Jupiter [accept-answer]

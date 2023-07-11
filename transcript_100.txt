@@ -1,0 +1,52 @@
+Transcribed by: Charlie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=f48VdkzQ5cM
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: Which of these is the title of a 2006 film starring Samuel L. Jackson? [question]
+S: Snakes on a ship, snakes on a plane, snakes on a train, snakes on a bus [options]
+U1: Yeah this is much easier [chit-chat]
+U2: It's snakes on a plane [final-answer(snakes on a plane)]
+U1: Snakes on a plane [agreement]
+S: Is that your final answer? [confirm-agreement]
+U1: Yes. [confirm-final-answer (snakes on a plane)]
+S: It's the right answer [accept-answer]
+
+S: What is the usual name for pizza topped with ham and pineapple [question]
+S: Fijian, Hawaiian, Cuban, Jamaican [options]
+S: are you nodding happily [chit-chat]
+U2: yep. I like pizza [chit-chat]
+S: Do you like pizza? [chit-chat]
+U1: I don't like Hawaiian I don't really understand sweet and savoury together [chit-chat]
+U2: well I like we either [chit-chat]
+U1: yeah I like pizza [chit-chat]
+U1: yeah, do you think it's Hawaiian? [offer-answer(Hawaiian)]
+U2: I know it' Hawaiian [agreement]
+U1: Hawaiian [final-answer (Hawaiian)]
+U2: I've ordered it many a time [chit-chat]
+S: Final answer? [confirm-agreement]
+U1: Final answer [confirm-final-answer (hawaiian)]
+S: It's the right answer, you've got 2000 pounds [accept-answer]
+
+S: which US city is known as la-la land? [question]
+S: why are you grinning at me? [chit-chat]
+U2: Because I think i know it [chit-chat]
+S: Las Vegas, Los Angeles, Louisville, Little Rock [options]
+U1 :Los Angeles [final-answer (Los Angeles)]
+U2: Yeah [agreement]
+S: What do you think? [confirm-agreement]
+U1: Los Angeles [confirm-final-answer (los angeles)]
+S: Why? [chit-chat]
+U1: Is it 'cause they're all a bit la? [chit-chat]
+U1: I would love to be right [chit-chat]
+S: It's the right answer, you've got 5,000 pounds [accept-answer]

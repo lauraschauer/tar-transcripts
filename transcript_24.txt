@@ -1,0 +1,128 @@
+Transcribed by: Aron
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=yf7TvZHxbPc
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: what is the most famous feature of Leonardo da Vinci's Mona Lisa? [question]
+S: her fingernails, her sunglasses, her smile, her lasagne [options]
+U2: that I'd like to see, her lasagne [chit-chat] 
+S: is that your final answer? [confirm-agreement]
+U1: no, no it's not lasangne, definitely not [reject-option (lasangne)]
+U2: can we agree? [ask-agreement]
+U1: sunglasses [offer-answer (her sunglasses)]
+U2: of course, can we agree it is her smile? [offer-answer (her smile)]
+U1: we can [agreement]
+S: it's the right answer [accept-answer]
+
+S: which of these is a highly desirable job? [question] 
+S: pear job, apple job, plum job banana job [options] 
+U2: can we agree? [ask-agreement]
+U1: yes we can [agreement]
+U1: plum job [final-answer (plum-job)]
+
+S: What is the name for a small window usually found over a door? [question] 
+S: daylight, sunlight, candlelight, fanlight [options]
+U2: that is fanlight, I am confident [offer-answer (fanlight)]
+U2: are you confident? [ask-agreement]
+U1: confident [agreement]
+U2: good
+S: final answer? [confirm-agreement]
+U2: yeah [confirm-final-answer (fanlight)]
+S: that's the right answer you've got 300 pounds [accept-answer]
+
+S: which of these is most likely to be stored in a keg? [question]
+S: biscuits, butter, beer, bread [options]
+U2: what do you think? [check-answer]
+U1: beer [offer-answer (beer)]
+U2: yes [agreement]
+S: right answer [accept-answer]
+
+S: in the name of the organization mi5 the I stands for which word? [question] 
+S: items, information, interest, intelligence [options]
+U1: I think it is safe to say intelligence [offer-answer (intelligence)
+U2: yes [agreement]
+S: you have one thousand pounds [accept-answer]
+
+
+S: the actress and presenter Claire Sweeney comes from which city? [question]
+S: Glasgow, Liverpool, Birmingham, Southampton [options] 
+U2:  we've met Claire we did a sports day with Claire last year in fact that was a forum for sports relief [chit-chat]
+U2: no she definitely comes from Liverpool I think we can agree on that [offer-answer (liverpool)]
+U1: we can agree [agreement]
+U2: good [chit-chat]
+S: final answer? [confirm-agreement]
+U2: yeah [final-answer (liverpool)]
+S: you have we got 2,000 pounds [accept-answer]
+
+S: what is the name of the hole in which Salvation Army meetings are held? [question]
+S: Castle, Kremlin, Citadel, Keep [options]
+U2: well it's not Kremlin I think that's fair to say [reject-option (kremlin)]
+U1: I don't think it's a castle [reject-option (castle)]
+U1: I think it's keep [offer-answer (keep)] 
+U2: I think it's citadel that has a style that's something the back of my mind is saying citadel but[offer-answer (citadel)]
+U2: but I'm not absolutely sure, what do you think? [ask-agreement]
+U1: well I don't think it's kremlin I don't think it's Castle [reject-option (kremlin,castle)]
+U2: I'm sure it's not keep [reject-option (keep)]
+U1: Are you sure it's not keep? [chit-chat]
+U2: well I can't see any sense in it being keep citadel you think up on the shining crystal on the hill with a quite Salvation Armyesqe [chit-chat]
+U1: it's not castle [reject-option (castle)]
+U2: that doesn't sound right at all, castle [reject-option (castle)]
+U2: definitely not kremlim [reject-option (kremlin)]
+U1: well you say definitely not [chit-chat]
+U2: why would it be kremlin, tell me why? [chit-chat]
+U1: the russian salvation army [chit-chat]
+U2: keep that's castle keep [chit-chat]
+U1: that' castle keep castle keep [chit-chat]
+U1: citadel [offer-answer (citadel)]
+U2: let's go with citadel [agreement]
+U2: we have got to be confident [chit-chat]
+U1: of let's go with citadel [agreement]
+S: is that your final answer? [confirm-agreement]
+U2: yes, it is [final-answer (citadel)]
+S: correct answer [accept-answer]
+
+
+S: the 2005 British Open golf tournament was held at which Scottish course? [question]
+S: canoustie, turnberry, troon, st andrews? [options]
+U1: St Andrews [offer-answer (St andrews)]
+U2: yes I would agree with that[agreement]
+U2: I was probably giving birth at the time but I would agree with that [chit-chat]
+U1: final answer st andrews [final-answer (st andrews)]
+S: You've got 16000 pounds [accept-answer]
+
+S: who was the narrator of the Arabian Nights tale? [question ()]
+S: Sinbad, Fatima, Alibaba, Scheherezade [options]
+U2: Shehrezade the answer to that [offer-answer (Scheherezade)]
+U2: does that ring bells with you too? [ask-agreement]
+U1: absolutely, Scheherezade [agreement]
+U2: Scheherezade, final answer [final-answer (Scheherezade)]
+S: right answer [accept-answer]
+
+S: which 20th century British prime minister had the shortest term of office? [question]
+S: Ramsay MacDonald, David Lloyd George, Andew Bonar Law, Neville Chamberlain [options]
+U1: right I would say Ramsey MacDonald who had one very short period in office very short [offer-answer (Ramsay MacDonald)]
+U2: how long was Andrew Bonar Law? [chit-chat]
+U1: well I don't know but Ramsay MacDonald definitely had a very short period in office in the twenties [chit-chat]
+U1: Neville Chamberlain was once and he was there from all he had to do [chit-chat]
+U1: so David Lloyd George I would say no [reject-option (david lloyd george)]
+U2: yeah [agreement]
+U1: Bonar Law I would say no [reject-option (Andrew Bonar Law)]
+U1: I would say ramsay macdonald [offer-answer (ramsay macdonald)]
+U2: you're confident are you? [check-answer]
+U1: yes 80% I'm 80% there [chit-chat]
+U2: fine [agreement]
+U1: but I could be wrong and if I'm wrong I apologize [chit-chat]
+U1: right ramsay macdonald [offer-answer (ramsay macdonald)]
+S: final answer? [ask-agreement]
+U2: final answer [confirm-final-answer (ramsay macdonald)]
+S: the right answer is Andrew Bonar Law [reject-option]

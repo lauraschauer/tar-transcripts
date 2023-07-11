@@ -1,0 +1,71 @@
+Transcribed by: Xander
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=l_ZDvYP1lMI
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: An optometrist specializes in which parts of body? [question] 
+S: eyes lungs ears feet [options]
+U1: I think we we know this don't we? [check-answer]
+U2: well you like the optometrist of yours [chit-chat]
+U1: your father always says I spent far too much money there. [chit-chat]
+U1: yes I go to an  optometrist and I'm sure you'd like to know that but [chit-chat] 
+U2: we are the last two at the Christmas quiz family quiz we are the last two to be selected you have to know this we've set our sights very low [chit-chat]
+U2: If we get 10,000 we will be delighted [chit-chat]
+U1: We would like to get there [chit-chat]
+U2: Eyes? Going with eyes? [offer-answer(eyes)]
+U1: Eyes. Eyes Chris. Final answer. [final-answer(eyes)]
+S: okay that's the right answer you have 500 pounds [accept-answer]
+
+S: which of these Prime Minister's was famous for smoking a pipe? [question]
+S: James Callaghan, Harold Wilson, Anthony Eden, John Major [options]
+U2: well I think you know this [check-answer]
+U1: I think I do [chit-chat]
+U2: I think I do too so tell me what you think [chit-chat]
+U1: Well he was a man who was very clever because when he was asked questions on television he'd go like that but he it gave him time to work out his answer the way he wanted to answer it [chit-chat]
+U1: should we go for it [offer-to-answer]
+U2: go for it, [chit-chat]
+U1: Harold Wilson [final-answer(Harold Wilson)]
+S: it's the right answer you got a thousand pounds [accept-answer]
+
+S: which part of the world has a name meaning many islands? [question]
+S: Louisiana, Polynesia, Iberia, Africa [options]
+U1: Poly means, you know, quite a few what [chit-chat]
+U2: Yes. [chit-chat]
+U1: That's the one that, kind of, leaps off the page [chit-chat]
+U2: Yes it does I quite agree [chit-chat]
+U2: My mind is leaping the same way as yours [chit-chat]
+U1: Do you think that's a bit rash to go so soon to Polynesia? [chit-chat]
+U1: I would hate to be wrong [chit-chat]
+U1: Poly does mean obviously multiple [chit-chat]
+U2: Does it? [chit-chat]
+U1: Well [chit-chat]
+U2: If that's what Poly means then hopefully that's what it would be [chit-chat]
+U1: I mean it's 2,000 pounds mm-hmm I'm thinking Polynesia let's go for it [offer-answer(Polynesia)]
+U2: You say it then [chit-chat]
+U2: You're taking responsibility should we say final answer. [chit-chat]
+U1: I, poly many islands Polynesia I guess [offer-answer(Polynesia)]
+U1: Yes, B, Final answer [final-answer(Polynesia)]
+S: It's the right answer, you have 2,000 pounds [accept-answer]
+
+S: The legal societies which admit people to the English bar are known as inns of... what? [question]
+S: court, attorney, division, silk [option]
+U2: What was that grunt? [chit-chat]
+U1: Well I was just thinking about Charlie Wally's father who's in the legal profession very much so [chit-chat]
+U2: We're both thinking A, [offer-answer(court)]
+U1: Court, yes [agreement]
+U2: Do we want to think about anything else? [check-answer]
+U1: We know they wear silk but I think they're court is the division [chit-chat]
+U2: I'm I'm 99.9% certain [agreement]
+U1: As am i [agreement] 
+U2: Final answer, Inns of Court [final-answer()]
+S: It's the correct answer. [accept-answer]

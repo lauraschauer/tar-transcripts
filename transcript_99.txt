@@ -1,0 +1,58 @@
+Transcribed by: Katie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=aG5DHsF5fxQ
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: What is the first name of professor Winston, fertility expert and TV presenter? [question]
+S: Simon, James, Roberts, Nick [options]
+U1: its Robert [offer-answer(robert)]
+U2: is it Robert winston [offer-answer(robert)]
+U1: It's robert winston, I'm sure it is. [agreement]
+U1: simon Winston, James winston, nick winston [chit-chat]
+U1: it was Robert Winston [offer-answer(robert)]
+U1: is it Sir Robert Winston, if it's not it should be. [chit-chat] 
+U2: is it.. [chit-chat]
+U1: it's Robert winston [[offer-answer(robert)]
+U1: i've watched documentaries about him. [chit-chat]
+U2: oh, really? Is it the guy with curly hair? The curly hair with the glasses?[chit-chat]
+U1: yeah yeah yeah [agreement]
+U2: I think you're right then [agreement]
+U1: he's the IVF guy [chit-chat]
+U2: Robert Winston [final-answer(robert)]
+S: final answer? [confirm-agreement]
+U2: final answer [confirm-final-answer(robert)]
+S: it was Robert winston [accept-answer]
+
+S: Which Christian festival commemorates the coming of the three wise men to Bethlehem? [question]
+S: Epiphany, Pentecost, Palm Sunday, Ascension Day
+U1: I know it darling. You know it, don't ya? [check-answer]
+U2: tell me what you think it is [chit-chat]
+U1: it's the Epiphany [offer-answer(epiphany)]
+U1: it's, it's celebrated on the 6th of January. It is when the three wise men came to give the presents which was they were a bit late [chit-chat]
+U2: you're 100% sure that it's epiphany? [chit-chat]
+U1: right, the Ascension is when Jesus ascended into, yeah. Pentecost is... [chit-chat]
+U2: it's not Pentecost [reject-option(pentecost)]
+U1: and Palm Sunday is obviously when and when he went through the streets on a whatever [chit-chat]
+U1: I know it's the answer. What do you think? [ask-agreement]
+U2: If you know it's the answer then let's do it [agreement]
+U1: I'm 100 percent sure it's epiphany [offer-answer(epiphany)]
+S: Is that your final answer [confirm-agreement]
+U1: Final answer. [confirm-final-answer(epiphany)]
+U2: Final answer. [confirm-final-answer(epiphany)]
+S: You just won 50,000 ounds [accept-answer]
+
+S: The sport of tossing the caber is most likely to take place in which country? [question]
+S: Scotland England Belgium France [options]
+U1: Scotland [offer-answer(scotland)]
+U2: I agree [agreement]
+S: It's the right answer [accept-answer]

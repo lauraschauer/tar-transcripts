@@ -1,0 +1,84 @@
+Transcribed by: Tom
+Status: Completed
+YouTube Link: https://www.youtube.com/watch?v=DYRfYlCk308
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: according to the title of the film starring Meryl Streep, The Devil Wears what? [question]
+S: Burberry, Dior, Prada, Chanel [options]
+U1: i think it's Prada [offer-answer(Prada)]
+U2: i think it's Prada as well Jill [agreement]
+S: you're terribly pleased with yourself [chit-chat]
+S: it's the right answer you've got 500 pounds [accept-answer]
+
+S: which fruit is often eaten with Parma ham as an appetizer? [question]
+S: Apple, Melon, Grapefruit, Pear [options]
+U2: i think it's melon [offer-answer(Melon)]
+U2: probably about 90 sure it's melon [offer-answer(Melon)]
+U1: we'll go with that then because i'm i'm not 100 sure on that [agreement]
+U2: you're happy? [ask-agreement]
+U1: yeah [agreement]
+U2: melon? [offer-answer(Melon)]
+U1: yeah [agreement]
+U2: final answer [final-answer(Melon)]
+S: blimey you're right about her being bossy [chit-chat]
+S: it's the right answer got a thousand pounds [accept-answer]
+
+S: who became the host of all-star family fortunes in 2006? [question]
+S: Hayley thinks she knows this [chit-chat]
+S: what do you want to see come up on the screen? [chit-chat]
+U2: Vernon Kay [offer-answer(Vernon Kay)]
+S: okay, do you like him? [chit-chat]
+U2: now he's had his hair cut, yes [chit-chat]
+S: okay uh Tim Vincent, Jeff Brazier, Andi Peters, Vernon Kay [options]
+U1: yeah, no, I agree [agreement]
+U2: Vernon Kay, Jill? [offer-answer(Vernon Kay)]
+U1: Vernon Kay [agreement]
+S: happy? [chit-chat]
+U1: yeah [chit-chat]
+U2: yes [chit-chat]
+S: final answer? [confirm-agreement(Vernon Kay)]
+U1: yes [confirm-final-answer(Vernon Kay)]
+S: it's the right answer you've got five thousand pounds [accept-answer]
+
+
+S: which driver was the formula one world champion for 2007? [question]
+S: Lewis Hamilton, Kimi Raikkonen, Fernando Alonso, Felipe Massa [options]
+U2: i think have you got any ideas [check-answer]
+U1: um well i know it wasn't Lewis Hamilton and it wasn't Alonso [reject-option(Lewis Hamilton, Fernando Alonso)]
+U1: i think it was Kimi Raikkonen [offer-answer(Kimi Raikkonen)]
+U2: so do i because i think Raikkonen was first Alonso was second and Hamilton lost out in third place [agreement]
+U1: but but i think it's Kimi Raikkonen [agreement]
+U2: Raikkonen? [offer-answer(Kimi Raikkonen)]
+U1: yeah [agreement]
+U2: shall we go with Raikkonen? [ask-agreement]
+U1: if we both think so [agreement]
+U2: i think so yeah i'm probably about 70 80 percent [agreement]
+U2: yeah? [ask-agreement]
+U1: yeah [agreement]
+S: final answer? [confirm-agreement(Kimi Raikkonen)]
+U2: yes [confirm-final-answer(Kimi Raikkonen)]
+S: you just won 10 000 pounds [accept-answer]
+
+S: a replica of what object was unveiled outside John Lennon airport in Liverpool in 2005? [question]
+S: Walrus, Bottle of wine, Yellow submarine, Blackbird [options]
+S: now Hayley where are you from? [chit-chat]
+U2: Liverpool, if i don't know i'm a bit stupid [chit-chat]
+S: i thought there was a hint of scouse in your voice [chit-chat]
+U2: just about [chit-chat]
+U2: um i think yellow submarine Jill [offer-answer(Yellow submarine)]
+U2: it's still there now so i'm presuming they've not moved it in since then [chit-chat]
+U1: yeah i'm happy with that [agreement]
+U2: yellow submarine? [offer-answer(Yellow submarine)]
+U1: yeah [agreement]
+U2: final answer Chris [final-answer(Yellow submarine)]
+U1: it's the right answer you've got 20 000 pounds [accept-answer]

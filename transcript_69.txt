@@ -1,0 +1,107 @@
+Transcribed by: Katie
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=rIJAGMDjkG0
+
+Dialogue Annotation Options:
+[question()] [offer-answer()] [options()] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: What name is given to a long loose robe, typically worn after getting out of bed or bathing? [question]
+S: source costume, ketchup frock, dressing-gown, mayonnaise habit. [options]
+U1: What a ridiculous question. [chit-chat]
+U2: It's dressing gown. [final-answer(dressing gown)]
+S: It's the right answer [accept-answer]
+
+S: Which of these is an ice cream dish? [question]
+S: banana split, cherry slash, peach tear, melon rip. [options]
+U1: it's banana split [final-answer(banana split)]
+S: are you happy with his answer? [confirm-agreement]
+U2: I am actually [confirm-final-answer(banana split)]
+S: That's the correct answer [accept-answer]
+
+S: which of these is an acrobatic movement? [question]
+S: carton, cartwheel, cartoon, carthorse [options]
+U1: cartwheel [final-answer(cartwheel)]
+S: you got 300 pounds [accept-answer]
+
+S: which of these creatures is most accurately described as an 'equine quadruped'? [question]
+S: squid, horse, spider, ostrich [options]
+U1: Horse? [offer-answer(horse)]
+U2: Horse. [agreement]
+U1: Horse [final-answer(horse)]
+S: Final answer, both of you? [confirm-agreement]
+U1: yeah [confirm-final-answer (horse)]
+S: it's right [accept-answer]
+
+S: Which of these has not yet been the title of a king of England? [question]
+S: Charles the seventh, George the sixth, Henry the seventh, Edward the eighth. [options]
+U2: charles the seventh? [offer-answer(charles the seventh)]
+U1: yeah [agreement]
+U1: Charles the seventh. [final-answer(charles the seventh)]
+S: final answer [confirm-agreement]
+U1: yea [confirm-final-agreement(charles the seventh)]
+U2: yep [confirm-final-agreement(charles the seventh)]
+S: It's good, you got a thousand pounds [accept-answer]
+
+S: Which of North America's five Great Lakes is also the name of an American state? [question]
+S: Huron, Michigan, superior, Ontario [options]
+U1: I'm not sure [chit-chat]
+U2: Ontario is in Canada [reject-option(ontario)]
+U1: Right, okay [reject-option-agreement(ontario)]
+U2: It must be Michigan then [offer-answer(michigan)]
+U1: Yep [agreement]
+S: Final answer? [confirm-agreement]
+U1: yes [confirm-final-answer(michigan)]
+U2: final answer. [confirm-final-answer(michigan)]
+S: it's right answer [accept-answer]
+
+S: Which of these films were set in the New York High School for the Performing Arts? [question]
+S: Celebrity, Fame, Star!, Showgirls. [options]
+U1: Fame? [offer-answer(fame)]
+U2: I think so, yes. Yea. [agreement]
+U1: We'll go with Fame. [final-answer(fame)]
+S: Final answer? [confirm-agreement]
+U1: Fame. [confirm-final-answer(fame)]
+U2: Yes, yep. [confirm-final-answer(fame)]
+S: It's the right answer [accept-answer]
+
+S: In the abbreviation GCSE, what does it letter 'S' stand for? [question]
+S: schools, secondary, standard, special [options]
+U2: I think it's secondary. It's General Certificate of Secondary Education [offer-answer(secondary)]
+U1: I'd go with that [agreement]
+S: Final answer? [confirm-agreement]
+U1: final answer. [confirm-final-answer(secondary)]
+S: It's good, well done. [accept-answer]
+
+S: If lactic is the adjective, what is the noun? [question] 
+S: grass, milk, oil, wax [options]
+U2: I've no idea [chit-chat]
+U1: it's milk [offer-answer(milk)]
+U2: what's lactic [chit-chat]
+U1: You have no idea? [check-answer]
+U2: well, it's either grass or milk. [chit-chat]
+U1: I'm not entirely sure [chit-chat]
+U2: You were pretty sure it was milk.. [chit-chat]
+U1: we'll go with milk [final-answer(milk)]
+S: Final answer? [confirm-agreement]
+U2: Final answer. [confirm-final-answer(milk)]
+U1: Yep. [confirm-final-answer(milk)]
+S: It's the right answer [accept-answer]
+
+S: what is the inscription on the Victoria Cross? [question]
+S: for valour, for bravery, for heroism, for gallantry [options]
+U1: Any idea? [check-answer]
+U2: no [chit-chat]
+U1: I think it's for valour [offer-answer(for valour)]
+U1: For valour. [final-answer(for valour)]
+S: Final answer. [confirm-agreement]
+U1: Yep. [confirm-final-answer(for valour)]
+U2: Yea, yea. If he's sure, I'm happy. [confirm-final-answer(for valour)]
+S: You've just won 60,000 pounds [accept-answer]

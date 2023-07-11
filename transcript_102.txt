@@ -1,0 +1,35 @@
+Transcribed by: Xander
+Status: Complete
+YouTube Link: https://www.youtube.com/watch?v=QwYRB_cWFcE
+
+Dialogue Annotation Options
+[question] [offer-answer()] [options] [offer-to-answer] [check-answer] [agreement] [ask-agreement] [chit-chat]
+[accept-answer] [final-answer()] [confirm-agreement] [confirm-final-answer] [inform] [reject-option ()]
+
+User/System Format:
+U1: User 1 | U2: User 2 | S: System
+
+
+
+-------- Transcript --------
+
+S: Who Wants to Be a Millionaire question number one is 500 quid the mop top hairstyle was most associated with which pop group [question]
+S: Beatles, Sex Pistols, Duran Duran, Black Sabbath [options]
+U1: Well [chit-chat]
+U2: The Beatles next [final-answer(Beatles)]
+S: Right Answer 500 pounds [confirm-final-answer]
+S: Last point of which you could go home with nothing but it won't happen you have three life this will guarantee you a thousand pounds Peter [chit-chat]
+U2: Okay but stop at services and get a meal [chit-chat]
+S: Question number two here it comes [chit-chat]
+
+S: The classic film Casablanca is set in which country? [question]
+S: Turkey, Morocco, Egypt, Zambia [options]
+U1: You know that [chit-chat]
+U2: Yeah [chit-chat]
+U1: Well say it then [chit-chat]
+U2: all right Morocco [final-answer(Morocco)]
+S: It's the right answer [accept-answer]
+U2: I was stalling [chit-chat]
+S: Why [chit-chat]
+U2: Just waiting for that Man on his keyboard backstage [chit-chat]
+S: but for now on it's the music that slowly undermines your feeling of security [chit-chat]
